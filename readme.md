@@ -24,7 +24,7 @@ The "Digital Clock" is a simple and elegant digital clock created using HTML, CS
 
 ## Screenshot
 
-![Digital Clock Screenshot](./assets/screenshot/clock-ss.png)
+![Digital Clock Screenshot](./assets/images/Screenshot.png)
 
 ## Demo
 
