@@ -1,6 +1,4 @@
-# Project Name
-
-Give your project a meaningful name.
+# Digital Clock
 
 ## Table of Contents
 
@@ -13,45 +11,64 @@ Give your project a meaningful name.
 - [Usage](#usage)
 - [What I Learned](#what-i-learned)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/your-repo)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Live Demo: [Digital Clock Demo](https://serene-panda-aebe85.netlify.app/)
+- GitHub Repository: [Github Repo](https://github.com/aruntutter/digital-clock)
 
 ## Description
 
-Provide a brief description of your project, highlighting its main purpose and features.
+The "Digital Clock" is a simple and elegant digital clock created using HTML, CSS, and JavaScript. It displays the current time with hours, minutes, seconds, and AM/PM indicator on a visually appealing clock face.
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Digital Clock Screenshot](./assets/screenshot/clock-ss.png)
 
 ## Demo
 
-Include a link to a live demo of your project, if available. You can use services like GitHub Pages, Netlify, or Heroku to host your project.
+You can see the live demo of the Digital Clock here: [Digital Clock Demo](https://serene-panda-aebe85.netlify.app/)
 
 ## Features
 
-List the main features and functionalities of your project. You can use bullet points or a numbered list.
+- Real-time clock display with hours, minutes, and seconds.
+- Automatic update of time every second.
+- AM/PM indicator to distinguish between morning and afternoon.
+- Responsive design for a seamless experience on various devices.
 
 ## Technologies Used
 
-Mention the technologies, tools, and frameworks used in your project. For example:
+The Digital Clock project is built using the following technologies:
 
 - HTML
 - CSS
-- FlexBox
 - JavaScript
+- Font Awesome (for clock icons)
 
 ## Usage
 
-Explain how to use your project. You can provide code examples, screenshots, or even GIFs to demonstrate its usage.
+To use the Digital Clock, follow these steps:
+
+1. Open the live demo link: [Digital Clock Demo](https://serene-panda-aebe85.netlify.app/)
+2. The clock will automatically display the current time.
+3. Enjoy the elegant clock display with smooth animations.
 
 ## What I Learned
 
-Share what you learned while working on this project. You can mention any new concepts, techniques, or insights gained through the development process. This section can be valuable for personal reflection and to showcase your growth as a developer.
+While working on the Digital Clock project, I gained valuable insights into the following:
+
+- Utilizing CSS animations to create smooth and visually appealing transitions.
+- Implementing JavaScript's `setInterval` function to update the clock in real-time.
+- Manipulating date and time objects to format and display the current time.
+- Enhancing user experience through responsive design for various screen sizes.
 
 ## Contributing
 
-Indicate if you're open to contributions and how others can contribute to your project. You can mention things like submitting bug reports, suggesting new features, or submitting pull requests.
+Contributions to this project are welcome! If you find any bugs, have suggestions for new features, or want to improve the code, feel free to submit issues and pull requests.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
