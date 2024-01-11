@@ -18,7 +18,7 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #bc7676;
+  background-color: #fff;
 }
 
 a {
@@ -35,6 +35,11 @@ li {
   letter-spacing: 5px;
   text-align: center;
   margin: 10%;
+}
+
+.am-pm {
+  font-size: 1.5rem;
+  margin-left: 20rem;
 }
 
 .clock {
@@ -77,14 +82,25 @@ li {
     font-size: 1.5rem;
   }
 
+  .am-pm {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-left: 0;
+    margin-top: 7rem;
+  }
+
   .clock {
-    width: 80vw;
-    height: 20vh;
+    width: 20vh;
+    height: 55vw;
     font-size: 1rem;
+    padding: 10%;
+
+    display: flex;
+    flex-direction: column;
   }
 
   .time {
-    padding: 3%;
+    padding: 10px;
     border-radius: 10px;
   }
 
